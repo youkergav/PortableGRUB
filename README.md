@@ -4,7 +4,7 @@ A web app designed to help budget your money.
 
 ### Requirements
 
-Requires 250GB hard drive or larger.
+Requires 128GB hard drive or larger.
 
 The following ISOs are required:
    Windows 10 https://software-download.microsoft.com/pr/Win10_1607_English_x64.iso?t=ff8e0f6f-5271-4f7d-acd2-b1649ede4fdd&e=1479424071&h=fd610daba0e7f55f7b9f17edd3a7412b
