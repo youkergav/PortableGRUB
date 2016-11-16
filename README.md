@@ -4,9 +4,7 @@ A web app designed to help budget your money.
 
 ### Requirements
 
-
 Requires 250GB hard drive or larger.
-
 
 The following ISOs are required:
    Windows 10 https://software-download.microsoft.com/pr/Win10_1607_English_x64.iso?t=ff8e0f6f-5271-4f7d-acd2-b1649ede4fdd&e=1479424071&h=fd610daba0e7f55f7b9f17edd3a7412b
@@ -23,14 +21,11 @@ The following ISOs are required:
    
    OPRE 1.4 http://pogostick.net/~pnh/ntpasswd/usb140201.zip
    
-
 ### Installation
-
 
 Installation requires installations and configurations for Windows, GRUB, and Ubuntu, and partitions. 
 
 Detailed step-by-step intructions can be found on Gavin's AskUbnutu. http://askubuntu.com/questions/768775/how-to-dual-boot-windows-10-and-ubuntu-16-off-an-external-drive
-
 
 ### Development
 
